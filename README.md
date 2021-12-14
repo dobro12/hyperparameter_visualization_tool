@@ -22,6 +22,14 @@ InfoVis Final Project.
 
 ## How to train RL and add data
 
+### requirements
+
+1. tensorflow==1.13.1
+2. sklearn
+3. gym
+4. mujoco-py
+5. matplotlib
+
 - ```bash
   $ cd SAC
   $ ./train.sh
