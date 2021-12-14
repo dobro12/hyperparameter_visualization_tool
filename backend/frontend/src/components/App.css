@@ -1,0 +1,24 @@
+
+
+.app {
+    white-space: pre-wrap;
+},
+
+.maincontainers {
+    white-space: pre-wrap;
+    display: inline-block;
+    flex-direction: row;
+},
+
+.sidebar {
+    white-space: pre-wrap;
+    padding: 50px;
+    margin: 200px 0 100px;
+},
+
+.sidecontainers {
+    white-space: pre-wrap;
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+}

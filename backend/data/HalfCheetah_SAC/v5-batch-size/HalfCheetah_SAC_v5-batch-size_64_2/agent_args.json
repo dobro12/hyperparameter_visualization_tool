@@ -1,0 +1,1 @@
+{"agent_name":"SAC","save_name":"result/HalfCheetah_SAC_batch-size_64_2","discount_factor":0.99,"hidden1":256,"hidden2":256,"activ_function":"relu","q_lr":0.00003,"p_lr":0.0003,"alpha":0.2,"polyak":0.995,"batch_size":64,"replay_size":100000}
