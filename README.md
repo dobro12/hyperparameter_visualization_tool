@@ -30,6 +30,8 @@ InfoVis Final Project.
 4. mujoco-py
 5. matplotlib
 
+### train
+
 - ```bash
   $ cd SAC
   $ ./train.sh
